@@ -1,4 +1,7 @@
 ## Skills
 
-- <img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1E88E5?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> 
-- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
+  - <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+/*
+<img src="https://img.shields.io/badge/SwiftUI-2396F3?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> 
+*/  
+  <br> 
